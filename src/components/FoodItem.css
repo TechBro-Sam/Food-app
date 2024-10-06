@@ -1,0 +1,39 @@
+.itemContainer{
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0px ,4px, 6px, rgb(0, 0, 0, 0.1);
+    margin: 20px;
+    overflow: hidden;
+    border-bottom: 1px solid black;
+    font-family: cursive;
+}
+.itemImg{
+    max-width: 100%;
+    height: auto;
+
+}
+.itemContain{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.itemName{
+    font-size: 1em;
+    font-weight: 600;
+    color: #393e96;
+}
+.itemBtn{
+    background-color: #29bb89;
+    border: none;
+    color: white;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 6px;
+}
+.btncontainer{
+    margin: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}

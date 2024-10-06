@@ -1,0 +1,27 @@
+.itemContainers{
+    display: flex;
+     margin-top: 50px ;
+     padding: 10px;
+     box-shadow: 0 4px 6px rgb(0,0,0,0.2);
+}
+.imgContainers{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+
+}
+.imgf{
+    max-width: 100%;
+    height: auto;
+}
+.nameContainer{
+    margin-left: 50px;
+}
+.names{
+    font-size: larger;
+    font-weight: bold;
+}
+.amount{
+    font-weight: bold;
+    margin-top: 10px;
+}
