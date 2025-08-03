@@ -3,7 +3,7 @@ import './Navbar.css'
 const NavBar = ()=>{
     return(
         <div className="nav">
-            🍔 AWOPEJO SAMUEL FOOD SERVICE  🍜   
+            🍔 Reciepe FOOD SERVICE  🍜   
         </div>
     )
 }
